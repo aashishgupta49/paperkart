@@ -1,0 +1,11 @@
+{
+  "name": "paperkart",
+  "version": "1.0.0",
+  "description": "it is the marketplace for books and educational courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aashish gupta",
+  "license": "ISC"
+}
